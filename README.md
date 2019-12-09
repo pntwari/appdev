@@ -28,7 +28,7 @@ The application displays some facts about the F22 Raptor. The result can be show
 # Android
 The Android development environment is more complicated with many more options and clicks. The utilized framework is Android Studio. The environment looks like in Fig. 3. The result is shown in Fig. 4. 
 ![Fig 3. Android Studio Development Environment](https://github.com/pntwari/appdev/blob/master/Android_App_IDE.JPG)
-![Fig 4. Android Studio Development Result](https://github.com/pntwari/appdev/blob/master/React_Nat_Web.JPG)
+![Fig 4. Android Studio Development Result](https://github.com/pntwari/appdev/blob/master/Android_App_Result.JPG)
 
 
 
